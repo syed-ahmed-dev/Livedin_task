@@ -250,12 +250,6 @@ Authorization: Bearer {token}
 Authorization: Bearer {your-access-token}
 ```
 
-## Testing
-
-```bash
-php artisan test
-```
-
 ## Conclusion
 
 This README outlines how to install, use, and test the Laravel Task Management API. For any contributions or issues, please visit the project repository.
